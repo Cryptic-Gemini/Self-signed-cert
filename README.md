@@ -31,7 +31,7 @@ This will create tls.* files.
 
 5- Expose it as a service of type NodePort
 
- You will get two NodePorts as  443:31754/TCP,80:30925/TCP
+ You will get two NodePorts as  443:31754/TCP , 80:30925/TCP
 
 
 6- You should be able to see nginx running on browser through http and https.
