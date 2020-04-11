@@ -17,7 +17,7 @@ Help:
 
 To achieve these objectives, we will create SSL certs as secrets, and a custom nginx configuration as configmap, and use them in our deployment.
 
-1- Generate self signed certs: (check support-files/ directory in https://github.com/Cryptic-Gemini/Self-signed-cert.git)
+1- Generate self signed certs: (check support-files directory in https://github.com/Cryptic-Gemini/Self-signed-cert.git)
 
                  ./generate-self-signed-certs.sh
 
