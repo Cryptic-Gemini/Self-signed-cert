@@ -7,9 +7,9 @@ Task:
 
 Run nginx web-server, which listens on port 443, by using some self-signed SSL certificates. This involves:
 
-a- providing SSL certificates to nginx pods, and,
+a- Providing SSL certificates to nginx pod
 
-b-providing a custom nginx configuration, so the pods know how to use these certificates and what port to listen on.
+b- Providing a custom nginx configuration, so the pods know how to use these certificates and what port to listen on.
 
 
 Help:
